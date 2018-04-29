@@ -1,7 +1,5 @@
 # Automation of trusted authentication
-
-	This repo shows sample of automating a trusted authentication and testing it.
-	
+This repo shows sample of automating a trusted authentication and testing it.
 
 ## Steps to Execute This Sample
 
